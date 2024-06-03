@@ -1,4 +1,4 @@
-name: Python application on self-hosted
+name: Python application on self-hosted - test
 
 on:
   push:
